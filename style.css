@@ -1,0 +1,52 @@
+h1 {
+    text-align:center;
+}
+
+.container{
+            width:420px;
+            height:460px;
+            background-color: black;
+            margin: auto;
+            padding: 10px;
+            border-radius: 10px;
+}
+
+p{
+    margin-left: 20px;
+    color: white;
+    font-size: 1.5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow',
+}
+
+#screen {
+            background-color: rgb(178,212,228);
+            height: 48px;
+            width:400px;
+            margin:5px;
+            font-size: 2em;
+            text-align:right;
+}
+
+.button{
+        background-color: rgb(78,77,77);
+        color: white;
+        width: 82px;
+        height: 60px;
+        font-size: 2.5rem;
+        margin: 10px;
+        border-radius: 15px;
+
+}
+
+.clear{
+        background-color: red;
+}
+
+.operator{
+            background-color: rgb(132,132,130);
+}
+
+.button:hover{
+    border: 5px solid greenyellow;
+}
+
